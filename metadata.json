@@ -1,0 +1,6 @@
+{
+  "name": "Open Harvest",
+  "description": "An elegant direct-to-consumer online farmers' marketplace linking local producers directly to communities with cryptocurrency payment options.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
